@@ -1,0 +1,76 @@
+h3
+{
+	color: red;
+	text-align: center;
+	font-size: 30px;
+}
+.p4
+{
+	display: flex;
+	justify-content: space-between;
+	font-size: 25px;
+}
+.present
+{
+	text-align: center;
+	width: 400px;
+	border: 400px;
+	height: 300px;
+}
+
+.futur
+{
+	text-align: right;
+	width: 400px;
+	border: 400px;
+	height: 300px;
+}
+
+.passe
+{
+	text-align: left;
+	width: 400px;
+	border: 400px;
+	height: 300px;
+}
+
+p
+{
+	text-align: justify;
+	font-size: 18px;
+}
+.FordT,.fardier ,.obeissante ,.contente
+{
+	float: left;
+}
+
+.p2
+{
+	clear: left;
+}
+
+.backgroundv
+{
+	background-image: url(Images/Voiture_passe/backgroundv.jpg);
+}
+
+.backgroundf
+{
+	background-image: url(Images/voiture_futur/backgroundf.png);
+}
+
+img
+{
+	width: 300px;
+	border: 300px;
+	height: 200px;
+}
+
+.p3
+{
+	color: limegreen;
+}
+span
+{
+		font-size: 30px;
+}
